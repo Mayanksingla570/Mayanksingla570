@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ms8031139singla" target="blank"><img src="https://img.shields.io/twitter/follow/ms8031139singla?logo=twitter&style=for-the-badge" alt="ms8031139singla" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in C++ & Full Stack Web Development**
+- 🌱 I’m currently learning **DSA in Java & Full Stack Web Development**
 
 - 💬 Ask me about **C, C++, HTML, CSS**
 
